@@ -60,5 +60,5 @@ This project is licensed under the MIT License.
 ### Acknowledgements
 
 - Dataset used from the Kaggle Data Science platform.
-- Exercise created by [Codebasics YouTube channel](https://www.youtube.com/@codebasics)
+- Exercise created by [Dhaval Patel](https://github.com/codebasics/py/blob/master/ML/19_Bagging/bagging_exercise.md)
 - Inspired by various machine learning tutorials and guides.
